@@ -1,0 +1,19 @@
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\bin\Debug\Prkt.exe
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\bin\Debug\Prkt.pdb
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.Form1.resources
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.Properties.Resources.resources
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.csproj.GenerateResource.Cache
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.exe
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.pdb
+C:\Users\Martin96\Desktop\FINKI\II-Godina\IV Семестар\Vizuelno programiranje\Proekt\Prkt\Prkt\obj\Debug\Prkt.Form2.resources
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.exe
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.pdb
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\bin\Debug\Prkt.exe
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\bin\Debug\Prkt.pdb
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.Form1.resources
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.Form2.resources
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.Properties.Resources.resources
+C:\Users\user\Desktop\ate proekt vizuelno\Prkt\Prkt\obj\Debug\Prkt.csproj.GenerateResource.Cache
+C:\Users\Ate\Desktop\fax\4 semestar\vizuelno programiranje\Vizuelno PROEKT\Prkt\Prkt\obj\Debug\Prkt.exe
+C:\Users\Ate\Desktop\fax\4 semestar\vizuelno programiranje\Vizuelno PROEKT\Prkt\Prkt\obj\Debug\Prkt.pdb
